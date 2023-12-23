@@ -1,5 +1,14 @@
 # naverpaper
-## 네이버폐지 줍기 자동화 파이썬 스크립트 - 클리앙, 뽐뿌
+## 네이버 폐지 줍기 자동화 파이썬 스크립트 - 클리앙, 뽐뿌
+
+```
+원 글은 클리앙 강좌 게시판에서 보았으나 현재 사라진 상태임.
+
+원 제작자 정보는 다음과 같음
+author='stateofai'
+author_email='tellme@duck.com'
+github: https://github.com/stateofai/naverpaper/
+```
 
 1. 파이썬 버전: 3.9 이상
 
