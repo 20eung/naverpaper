@@ -3,7 +3,7 @@ import time
 
 base_url = "https://www.clien.net/service/board/jirum"
 
-s = clien_naverpaper.naver_session('20eung','R8F3PTQ8UL8C')
+s = clien_naverpaper.naver_session('##네이버 로그인 전용 아이디##','##네이버 애플리케이션 패스워드')
 
 # 여기서 s가 None인지 확인합니다.
 if s is None:
