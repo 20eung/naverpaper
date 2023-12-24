@@ -14,6 +14,7 @@ campaign_links = clien_naverpaper.find_naver_campaign_links(base_url)
 
 if(campaign_links == []):
     print("모든 링크를 방문했습니다.")
+
 for link in campaign_links:
     response = s.get(link)
     #print(response.text) # for debugging
