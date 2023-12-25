@@ -51,3 +51,9 @@ https://www.ppomppu.co.kr/zboard/view.php?id=coupon&page=1&divpage=16&no=88919
 https://www.ppomppu.co.kr/zboard/view.php?id=coupon&page=1&divpage=16&no=88910
 https://www.ppomppu.co.kr/zboard/view.php?id=coupon&page=1&divpage=16&no=88905
 ```
+
+5. 네이버 로그인 전용 아이디 설정 방법
+- https://help.naver.com/service/5640/contents/10219?lang=ko
+
+6. 네이버 애플리케이션 비밀번호 사용 방법
+- https://help.naver.com/service/5640/contents/8584?lang=ko
