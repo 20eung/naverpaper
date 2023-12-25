@@ -13,7 +13,8 @@ github: https://github.com/stateofai/naver-paper
 1. 파이썬 버전: 3.9 이상
 
 2. 파이썬 모듈 설치
-```
+   
+```bash
 sudo apt-get install python3-pip
 sudo pip install requests BeautifulSoup4 lxml pyc rsa urllib3
 ```
@@ -27,7 +28,8 @@ sudo pip install requests BeautifulSoup4 lxml pyc rsa urllib3
   
 4. 프로그램 실행 방법
    - 만약 파이썬 소스 파일이 /home/ubuntu/naverpaper/ 폴더에 있다면
-```
+  
+```bash
 ubuntu@vm:~/naverpaper$ python3 clien_getpaper.py
 
 ubuntu@vm:~/naverpaper$ cat clien_visited_urls.txt
