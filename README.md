@@ -15,7 +15,8 @@ github: https://github.com/stateofai/naverpaper/
 2. 파이썬 모듈 설치
 ```
 sudo apt-get install python3-pip
-sudo pip install requests BeautifulSoap4 lxml pyc rsa urllib3
+sudo pip install requests BeautifulSoup4 lxml pyc rsa urllib3
+
 ```
 
 3. 네이버 보안 설정
