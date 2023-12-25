@@ -7,7 +7,7 @@
 원 제작자 정보는 다음과 같음
 author='stateofai'
 author_email='tellme@duck.com'
-github: https://github.com/stateofai/naverpaper/
+github: [https://github.com/stateofai/naverpaper/](https://github.com/stateofai/naver-paper)
 ```
 
 1. 파이썬 버전: 3.9 이상
