@@ -16,8 +16,19 @@ if(campaign_links == []):
     print("모든 링크를 방문했습니다.")
 
 for link in campaign_links:
+    print("캠페인URL: " + link)
+
     response = s.get(link)
-    #print(response.text) # for debugging
-    #response.raise_for_status() # for debugging
+
+    # 응답 텍스트를 줄 단위로 분할
+    lines = response.text.splitlines()
+
+    desired_text = "alert"
+
+    # 각 줄을 순회하며 'alert' 문자열이 포함된 줄 찾기
+    for line in lines:
+        if desired_text in line:
+            print(line)
+
+    response.raise_for_status() # for debugging
     time.sleep(5)
-    print("캠페인 URL : " + link)
